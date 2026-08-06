@@ -1,0 +1,10 @@
+{
+  "pack": {
+    "description": "Makes leaves decay much faster, by las_r.",
+    "min_format": [
+      107,
+      1
+    ],
+    "max_format": 107
+  }
+}
