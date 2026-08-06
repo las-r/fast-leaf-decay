@@ -5,7 +5,7 @@ Exactly what it says on the tin. Makes leaves decay pretty much instantly. Avail
 
 ## FAQ
 **Q:** Mod support?\
-**A:** Coming soon! As of v1.0.0, only vanilla is supported, but I'm working on it.
+**A:** As of v1.1.0, [Biomes O' Plenty](https://modrinth.com/mod/biomes-o-plenty) and [Terrestria](https://modrinth.com/mod/terrestria) are supported!
 
 **Q:** What do you mean by "major mod loaders"?\
 **A:** Fabric, Forge, NeoForge, and Quilt.
