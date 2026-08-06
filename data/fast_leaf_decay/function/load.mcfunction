@@ -8,3 +8,4 @@ scoreboard objectives add mined_mangrove minecraft.mined:minecraft.mangrove_log
 scoreboard objectives add mined_cherry minecraft.mined:minecraft.cherry_log
 
 scoreboard objectives add leaf_timer dummy
+function fast_leaf_decay:reset
