@@ -1,7 +1,7 @@
 ![Modrinth Downloads](https://img.shields.io/modrinth/dt/SrvMdjnx)
 
 # Fast Leaf Decay
-Exactly what it says on the tin. Makes leaves decay pretty much instantly. Available as a datapack and fully supported by pretty much all the major mod loaders.
+Exactly what it says on the tin. Makes leaves decay pretty much instantly. Available as a datapack and fully supported by all the major mod loaders.
 
 ## FAQ
 **Q:** Mod support?\
