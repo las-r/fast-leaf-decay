@@ -3,7 +3,7 @@
         "requirement": {
             "trigger": "minecraft:mined_block",
             "conditions": {
-                "block": "#minecraft:leaves"
+                "block": "#minecraft:logs"
             }
         }
     },
