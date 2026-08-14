@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "requirement": {
+            "trigger": "minecraft:mined_block",
+            "conditions": {
+                "block": "#minecraft:leaves"
+            }
+        }
+    },
+    "rewards": {
+        "function": ""
+    }
+}
