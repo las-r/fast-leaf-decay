@@ -1,1 +1,1 @@
-execute at @a run fill ~-16 ~-8 ~-16 ~16 ~16 ~16 air replace #minecraft:leaves[distance=7] destroy
+execute at @a run fill ~-10 ~-5 ~-10 ~10 ~10 ~10 air replace #minecraft:leaves[distance=7, persistent=false] destroy
