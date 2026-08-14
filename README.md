@@ -11,4 +11,4 @@ Exactly what it says on the tin. Makes leaves decay pretty much instantly. Avail
 **A:** Fabric, Forge, NeoForge, and Quilt.
 
 **Q:** Any dependencies?\
-**A:** If you're on Fabric, the [Fabric API](https://modrinth.com/mod/fabric-api) is a dependency.
+**A:** For Forge or NeoForge, none. For Fabric or Quilt, you need the [Fabric API](https://modrinth.com/mod/fabric-api).
