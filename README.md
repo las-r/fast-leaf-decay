@@ -1,7 +1,5 @@
 <div align="center">
-  <a href="https://modrinth.com/datapack/fast_leaf_decay">
-    <img src="https://modfolio.creeperkatze.dev/modrinth/project/fast_leaf_decay?showVersions=false&maxVersions=2&relativeTime=false&showBorder=false&animations=false" alt="Fast Leaf Decay" style="width: 50%;">
-  </a>
+  <a href="https://modrinth.com/datapack/fast_leaf_decay"><img src="https://modfolio.creeperkatze.dev/modrinth/project/fast_leaf_decay?showVersions=false&maxVersions=2&relativeTime=false&showBorder=false" alt="Fast Leaf Decay" /></a>
 </div>
 
 # Fast Leaf Decay
